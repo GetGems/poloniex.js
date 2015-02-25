@@ -283,8 +283,13 @@ Returns your open orders for a given market, specified by the currency pair.
 
 Example response:
 
-    {"response":"Withdrew 2398 NXT."} 
+    {"response":"Withdrew 2398 NXT."}
 
+
+### Poloniex.USER_AGENT
+
+A configurable user agent string, sent to the Poloniex API.  
+Defaults to `poloniex.js VERSION_NUMBER`.
 
 
 [repo]: https://github.com/premasagar/poloniex.js

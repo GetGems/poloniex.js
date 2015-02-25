@@ -1,19 +1,19 @@
 {
   "name": "poloniex.js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Poloniex API client",
-  "author": "Premasagar Rose <p@premasagar.com>",
+  "author": {
+    "name": "Premasagar Rose",
+    "email": "p@premasagar.com"
+  },
   "license": "MIT",
-  "readmeFilename": "README.md",
   "main": "lib/poloniex",
   "dependencies": {
     "nonce": "~1.0.3",
     "request": "~2.33.0"
   },
-  "devDependencies": {
-  },
-  "scripts": {
-  },
+  "devDependencies": {},
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/premasagar/poloniex.js.git"
@@ -30,5 +30,27 @@
   },
   "engines": {
     "node": ">=0.10"
-  }
+  },
+  "gitHead": "4da311afbe00af553f9fc0acc48d1bd7b4d28585",
+  "homepage": "https://github.com/premasagar/poloniex.js",
+  "_id": "poloniex.js@0.0.6",
+  "_shasum": "ac19fd1fac6f3b54efeac795bb48bb6fab1b8a7d",
+  "_from": "poloniex.js@",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "premasagar",
+    "email": "p@premasagar.com"
+  },
+  "maintainers": [
+    {
+      "name": "premasagar",
+      "email": "p@premasagar.com"
+    }
+  ],
+  "dist": {
+    "shasum": "ac19fd1fac6f3b54efeac795bb48bb6fab1b8a7d",
+    "tarball": "http://registry.npmjs.org/poloniex.js/-/poloniex.js-0.0.6.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/poloniex.js/-/poloniex.js-0.0.6.tgz"
 }
